@@ -1,4 +1,4 @@
-# @johnhodge/prettier-config 💻
+# @johnhodge/prettier-config
 
 The Prettier config used by John.
 
@@ -14,4 +14,14 @@ Yarn
 
 ```zsh
 yarn add --dev @johnhodge/prettier-config
+```
+
+## Configure
+
+Include this at the top of the `package.json` file:
+
+```json
+{
+  "prettier": "@johnhodge/prettier-config"
+}
 ```

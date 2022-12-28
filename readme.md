@@ -7,11 +7,11 @@ The Prettier config used by John.
 NPM
 
 ```zsh
-npm install hodge-prettier --save-dev
+npm install @johnhodge/prettier-config --save-dev
 ```
 
 Yarn
 
 ```zsh
-yarn add --dev hodge-prettier
+yarn add --dev @johnhodge/prettier-config
 ```

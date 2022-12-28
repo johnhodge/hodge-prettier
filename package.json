@@ -1,0 +1,19 @@
+{
+  "name": "hodge-prettier",
+  "version": "1.0.1",
+  "description": "Hodge's Prettier config.",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnhodge/hodge-prettier.git"
+  },
+  "author": "John Hodge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnhodge/hodge-prettier/issues"
+  },
+  "homepage": "https://github.com/johnhodge/hodge-prettier#readme",
+  "devDependencies": {
+    "hodge-prettier": "^1.0.0"
+  }
+}

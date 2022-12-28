@@ -1,4 +1,4 @@
-# hodge-prettier 💻
+# @johnhodge/prettier-config 💻
 
 The Prettier config used by John.
 
